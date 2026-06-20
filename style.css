@@ -1,0 +1,17 @@
+body{
+    font-family:tahoma;
+    background:#f4f4f4;
+    max-width:500px;
+    margin:auto;
+    padding:20px;
+}
+
+.input-area{
+    display:flex;
+    gap:10px;
+}
+
+.done{
+    text-decoration:line-through;
+    color:gray;
+}
